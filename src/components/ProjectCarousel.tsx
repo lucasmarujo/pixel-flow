@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import portfolioImage from '../assets/images/portfolio.png';
 import storeImage from '../assets/images/store.png';
