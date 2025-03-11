@@ -93,4 +93,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## 📞 Contato
 
-Para mais informações, entre em contato através do formulário em nosso site ou envie um email para contato@pixelflow.com.br. 
+Para mais informações, entre em contato através do formulário em nosso site ou envie um email para dev.pixelflow@gmail.com . 
