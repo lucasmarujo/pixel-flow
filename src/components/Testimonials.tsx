@@ -3,13 +3,13 @@
 
     const testimonialsData = [
       {
-        name: 'João Silva',
-        company: 'Empresa X',
+        name: 'Lucas Balduino',
+        company: 'Masclub',
         testimonial: 'A agência transformou nossa presença online. Estamos muito satisfeitos com o resultado!',
       },
       {
-        name: 'Maria Oliveira',
-        company: 'Loja Y',
+        name: 'Christian Edson',
+        company: 'AirBlower Ventiladores',
         testimonial: 'Entrega rápida e um site incrível. Recomendo a todos!',
       },
     ];
